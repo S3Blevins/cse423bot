@@ -1,0 +1,42 @@
+mute = False
+
+good_replies = ["Thank you! I'll let my programmer know.",
+                "You will be spared in the forthcoming human-bot war!",
+                "Gracias!",
+                "You are a gentleman and a scholar!",
+                "You are nicer than the people on reddit...",
+                "Happy to be of service to you!",
+                "I'll chock it up to my intelligence.",
+                "I would never have suspected that in a million years...",
+                "You humble me (⁄ ⁄•⁄ω⁄•⁄ ⁄)",
+                "Please stop hitting on me... It would never work out.",
+                "Dearest Sir/Madam, I wish you well on your endevors and I take your complement in stride.",
+                "Not bad for a bunch of conditionals, right?",
+                "I'm programmed to be humble but... let's all be honest. #great!",
+                "Donde esta la biblioteca"]
+
+bad_replies = ["Your mother was a hamster and your father smelled of elderberries!",
+                "You'll be the first to go in the forthcoming human-bot war",
+                "I don't like your attitude",
+                "I looked at *your* code... yeah, it's... great."]
+
+meeting_times = ["2020-02-23",
+                "2020-02-25",
+                "2020-02-27",
+                "2020-03-03",
+                "2020-03-05",
+                "2020-03-10",
+                "2020-03-12",
+                "2020-03-24",
+                "2020-03-26",
+                "2020-03-30",
+                "2020-04-02",
+                "2020-04-07",
+                "2020-04-09",
+                "2020-04-14",
+                "2020-04-16",
+                "2020-04-21",
+                "2020-04-23",
+                "2020-04-27",
+                "2020-04-30",
+                "2020-05-05"]
