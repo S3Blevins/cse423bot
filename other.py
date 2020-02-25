@@ -13,14 +13,12 @@ class Other(commands.Cog):
     @commands.command()
     async def goodbot(self, ctx):
         """let the bot know it's a good bot"""
-        seed(1)
         index = randint(0, len(bot_reply.good_replies) - 1)
         await ctx.send(bot_reply.good_replies[index])
 
     @commands.command()
     async def badbot(self, ctx):
         """let the bot know it's a bad bot (don't recomend -it can be tempermental and borderline abusive)"""
-        seed(1)
         index = randint(0, len(bot_reply.bad_replies) - 1)
         await ctx.send(bot_reply.bad_replies[index])
 
